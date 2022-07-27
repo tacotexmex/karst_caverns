@@ -83,7 +83,7 @@ local np_caverns_rooms_modulator = {
 
 local c_air = minetest.get_content_id("air")
 
-local c_stone = minetest.get_content_id("default:stone")
+local c_stone = minetest.get_content_id("mapgen_stone")
 
 
 
